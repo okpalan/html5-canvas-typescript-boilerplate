@@ -1,0 +1,20 @@
+{
+  "name": "html5-typescript-canvas-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build",
+    "build:watch": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "6.0.0-alpha.1",
+    "merge2": "^1.4.1"
+  }
+}
